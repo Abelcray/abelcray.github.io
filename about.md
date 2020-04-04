@@ -3,13 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+### 关于我
+> 一个在路上的废物
 
-Some information about you!
+### 一句话
+> 朝着阳光生长，做一个温暖的人，不卑不亢，清澈生活。
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### 兴趣方向
+> Linux、网络、kubernetes、openstack等相关技术
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+### 关于我
+
+[lice_abel@outlook.com](mailto:lice_abel@outlook.com)
